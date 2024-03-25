@@ -1,3 +1,8 @@
 # Coastal-Morphology
 
-This is to check the last pressure signal and then, take the avearge of it. I used a private data set from a .xslx file.
+will be sharing Jupyter Notebook scripts used for simple coastal morphology-related analysis. Please contact me if you have any questions or suggestions to improve them. Thanks.
+
+
+
+
+
